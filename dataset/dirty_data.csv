@@ -1,0 +1,84 @@
+id,fullname,phone,email,age,city,salary,country_id,status,address,department_id,hire_date
+1,Kofi Mensah,244123456,kofi.mensah@,28,Accra,2500,1,active,"12 Ring Road, Accra",1,15/03/2022
+2,Ama Boateng,201234567,ama boateng@gmail.com,32,Kumasi,3100.5,1,Active,45 Adum Street,2,01/07/2021
+3,Yaw Darko,2.33244E+11,yaw@@darko.com,45,Takoradi,NULL,1,ACTIVE,7 Harbor Rd,3,10/01/2020
+4,Abena Asante,NULL,abena.asante.gmail.com,29,Accra,2800,1,active,NULL,1,01/06/2023
+5,Kwame Osei,024-411-2233,kwame@osei@company.gh,38,Tema,5000,1,inactive,3 Industrial Ave,2,NULL
+6,Fatima Diallo,2.21771E+11,fatima.diallo@senegal.sn,27,Dakar,3200,4,Actif,88 Medina,4,20/11/2022
+7,Moussa Sow,771234567,moussa.sow@mail.sn,41,Saint-Louis,2900,4,FIRED,12 Rue Blanchot,1,15/05/2019
+8,Aminata Ndiaye,NULL,aminata@ndiaye,33,Dakar,3800,4,suspend,5 Avenue Bourguiba,3,30/08/2020
+9,Ibrahima Ba,77-000-1111,ibrahima.ba@gmail.com,52,Ziguinchor,4100,4,employe,2 Rue du Port,2,01/03/2018
+10,Rokhaya Fall,12217751234,rokhayafall@,24,Dakar,NULL,4,NULL,NULL,NULL,15/01/2024
+11,Chidi Okafor,8012345678,chidi.okafor@ng.com,0,Lagos,6000,2,active,14 Victoria Island,1,28/02/2021
+12,Ngozi Eze,7098765432,ngozi.eze@yahoo.com,999,Abuja,5500,2,active,3 Maitama Drive,2,10/09/2020
+13,Emeka Nwosu,080-1234-5678,emeka@nwosu@ng.co,-5,Port Harcourt,4800,2,Active,7 GRA Phase 2,3,01/12/2019
+14,Bola Adeyemi,8155550000,bola.adeyemi@company,17,Ibadan,1500,2,INACTIVE,22 Ring Road Ibadan,4,NULL
+15,Tunde Fashola,NULL,tunde@fashola.com,150,Lagos,7200,2,active,1 Broad Street,5,07/07/2022
+16,Wanjiku Mwangi,2.54712E+11,wanjiku@mwangi.co.ke,30,Nairobi,-1500,3,active,"Westlands, Nairobi",1,20/05/2021
+17,Otieno Odhiambo,722000111,otieno.odhiambo@gmail,36,Kisumu,0,3,active,Milimani Estate,2,15/03/2020
+18,Aisha Kamau,2.54733E+11,aisha.kamau@mail.ke,44,Mombasa,99999999.99,3,Active,"Old Town, Mombasa",3,11/11/2018
+19,Njeri Kariuki,-111668,NULL,28,Nakuru,3400,3,inactive,NULL,1,14/02/2023
+20,Kipchoge Rotich,700222333,kipchoge.rotich@ke,39,NULL,4600,3,NULL,Eldoret Town,2,08/08/2022
+21,ZANELE DLAMINI,821234567,zanele.dlamini@za.com,31,Johannesburg,5200,5,active,10 Sandton Drive,4,10/01/2021
+22,thabo nkosi,831111222,thabo.nkosi@gmail.com,27,Cape Town,4100,5,Active,3 Long Street,1,01/04/2022
+23,NULL,844567890,noname@company.co.za,35,Durban,3600,5,active,7 Marine Parade,2,10/10/2020
+24,  Lindiwe Zulu  ,855001122,lindiwe.zulu@,42,Pretoria,5800,5,ACTIVE,15 Church Street,3,NULL
+25,Sipho   Mthembu,NULL,NULL,55,Bloemfontein,NULL,5,inactive,NULL,NULL,15/06/2017
+26,Kofi Mensah,244123456,kofi.mensah@gmail.com,28,Accra,2500,1,active,"12 Ring Road, Accra",1,15/03/2022
+27,Akosua Frimpong,N/A,akosua.frimpong@ghana.com,34,Accra,3000,1,active,20 Cantonments,2,09/09/2021
+28,Kwabena Asare,0,kwabena.asare@mail.gh,40,Tamale,3700,1,Active,Northern Region,3,22/07/2019
+29,Efua Mensah,2.44123E+16,efua.mensah@company.gh,26,Cape Coast,2600,1,NULL,5 University Rd,4,30/03/2023
+30,Nana Yaw Boadu,(024) 411-2233,nanayaw@boadu@gh.com,37,Kumasi,4500,1,active,Nhyiaeso,5,05/05/2020
+31,Amara Diallo,33612345678,amara.diallo@france.fr,29,Paris,6500,4,active,12 Rue de la Paix,1,31/12/2099
+32,Oumar Coulibaly,22371234567,oumar@coulibaly,33,Bamako,2200,4,Active,Badalabougou,2,0001-01-01
+33,Mariam Traore,NULL,mariam.traore@mail.ml,48,Segou,1800,4,ACTIVE,NULL,3,01/01/1900
+34,Seydou Keita,00223-60-111222,seydou.keita@sn.mail,22,Dakar,NULL,4,inactive,Plateau District,NULL,NULL
+35,Kadiatou Bah,2.24621E+11,kadiatou.bah@,19,Conakry,1600,4,stagiaire,7 Kaloum,4,15/06/2024
+36,Kofi Mensah,244123456,kofi.mensah@gmail.com,28,Accra,2500,1,active,"12 Ring Road, Accra",1,15/03/2022
+37,123456,123456789,123@456.789,0,???,-999,NULL,yes,no address,NULL,NULL
+38,Test Employee,test,test@test,-1,TestCity,0,NULL,TEST,Test Address 123,NULL,01/01/2000
+39,John Doe,555-1234,john.doe@example.com,30,Accra,3000,1,active,1 Main Street,1,01/01/2020
+40,Jane Doe,555-1234,john.doe@example.com,30,Accra,3000,1,active,1 Main Street,1,01/01/2020
+41,Precious Obi,8033334444,precious obi@gmail.com,26,Lagos,3800,2,active,5 Lekki Phase 1,1,10/10/2022
+42,Emeka Eze,7011112222,emeka.eze@.com,44,Abuja,5100,2,Active,Garki District,2,20/04/2019
+43,Funke Adebayo,9012223333,@funke.adebayo.com,31,Kano,4300,2,inactive,Sabon Gari,3,NULL
+44,Dele Olanrewaju,8099998888,dele.olanrewaju,39,Ibadan,4700,2,ACTIVE,Bodija Estate,4,08/08/2021
+45,Kemi Okonkwo,NULL,kemi@okonkwo@mail.com,22,Enugu,2900,2,NULL,3 GRA Enugu,5,20/01/2023
+46,Abebe Girma,2.51911E+11,abebe.girma@et.com,34,NULL,2700,3,active,Bole Sub-city,1,10/06/2020
+47,Tigist Haile,911000111,tigist@haile,29,ADDIS ABABA,3100,3,Active,7 Churchill Ave,2,25/03/2021
+48,Dawit Bekele,NULL,dawit.bekele@gmail.com,51,addis ababa,4900,3,ACTIVE,NULL,3,15/09/2018
+49,Hana Tesfaye,-111871,hana.tesfaye@company,23,   ,2400,3,inactive,Kirkos District,4,01/04/2024
+50,Bereket Alemu,900222333,NULL,37,Dire Dawa,NULL,3,active,Industrial Zone,5,30/11/2019
+51,Mariama Barry,2.24622E+11,mariama.barry@gn.com,28,Conakry,2100,4,active,Ratoma,NULL,15/07/2022
+52,Ibrahima Camara,2.24628E+11,ibrahima.camara@mail,45,Kankan,3400,4,NULL,Centre Ville,NULL,20/02/2020
+53,Fatoumata Sylla,NULL,fatoumata@sylla.gn,33,Kindia,2800,NULL,Active,10 Rue Principale,3,NULL
+54,Mamadou Diallo,00224-60-000111,mamadou.diallo@,19,Labe,1900,NULL,INACTIVE,NULL,NULL,01/09/2024
+55,Aissatou Balde,2.24621E+11,aissatou.balde@company.gn,60,Ziguinchor,5500,NULL,active,Plateau,2,10/01/2016
+56,Ama Boateng,201234567,ama.boateng@gmail.com,32,Kumasi,3100.5,1,Active,45 Adum Street,2,01/07/2021
+57,AMA BOATENG,020 123 4567,ama boateng@gmail.com,32,kumasi,3100.5,1,active,45 adum street,2,01/07/2021
+58,Zanele Dlamini,082 123 4567,zanele.dlamini@za.com,31,Johannesburg,5200,5,active,10 Sandton Drive,4,10/01/2021
+59,zanele dlamini,821234567,ZANELE.DLAMINI@ZA.COM,31,johannesburg,5200,5,Active,10 sandton drive,4,10/01/2021
+60,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+61,N/A,N/A,N/A,NULL,N/A,NULL,NULL,N/A,N/A,NULL,NULL
+62,UNKNOWN,0,unknown@unknown,0,UNKNOWN,0,NULL,unknown,UNKNOWN,NULL,NULL
+63,Employee TBD,NULL,NULL,NULL,Accra,3000,1,pending,TBD,1,NULL
+64,Placeholder,111,placeholder@mail,25,Lagos,100,2,draft,No address,NULL,12/12/2024
+65,Kwesi Annan,244567890,kwesi.annan@accra.gh,36,Accra,4200,NULL,active,East Legon,1,20/06/2021
+66,Esi Turkson,277654321,esi.turkson@mail.com,29,Accra,3700,NULL,Active,Osu Oxford Street,2,15/09/2022
+67,Nana Ama Poku,209876543,nanaama.poku@gh.net,43,Kumasi,5100,NULL,inactive,Adum Centre,3,10/04/2018
+68,Seun Adesanya,not provided,seun.adesanya@ng.com,31,Lagos,4400,2,active,Yaba,1,11/11/2020
+69,Temi Ogundimu,see HR file,temi.ogundimu@company.ng,26,Abuja,3900,2,Active,Wuse Zone 5,2,05/05/2021
+70,Dapo Balogun,confidential,dapo.balogun@ng.mail,50,Kano,6200,2,inactive,Nasarawa GRA,3,NULL
+71,Kofi Acheampong,244999888,kofi.mensah@gmail.com,34,Accra,3300,1,active,NULL,1,01/01/2022
+72,Adjoa Boateng,201111222,ama boateng@gmail.com,28,Kumasi,2800,1,active,NULL,2,02/02/2022
+73,Prosper Agbeko,303334455,prosper.agbeko@mail.gh,-99,Ho,2300,1,active,Volta Region,4,03/03/2021
+74,Sandra Opoku,302223344,sandra.opoku@gh.net,200,Sunyani,2700,1,Active,Bono Region,5,07/07/2020
+75,Michael Baah,311112222,michael.baah@company.gh,NULL,Bolgatanga,3200,1,active,Upper East,1,NULL
+76,Abigail Owusu,244100200,abigail.owusu@gh.com,27,Accra,3333.33,1,active,8 Liberation Road,2,01/05/2023
+77,Emmanuel Quaye,241002003,emmanuel.quaye@mail,45,Tema,4444.44,1,NULL,Community 4,3,10/10/2019
+78,Diallo Amadou,22377889900,diallo.amadou@sn.com,38,Dakar,3600,4,actif,Medina,1,06/06/2020
+79,Seydina Limamou,22378990011,seydina@limamou.sn,44,Thies,4100,4,inactif,Randoulene,2,08/08/2018
+80,Rokhaya Diop,22379001122,rokhaya.diop@dakar.sn,29,Dakar,3200,4,en_attente,3 VDN,3,11/11/2021
+81,!@#$%,!@#$%^&*(),notanemail,-100,!@#,-5000,NULL,!@#$,!@# Street,NULL,NULL
+82,Dr. Smith-Williams Jr. III Esq.,+1 (800) 555-HELP ext.123,dr.smith@williams@company.co.uk.ng.gh,35,Lagos / Accra / Dakar,99000,2,Active Employee,"123 Fake Street, Apt 4B, Floor 7, Building C, Lagos Island, Nigeria, West Africa",1,15/06/2022
+83,Kofi Mensah,244123456,kofi.mensah@gmail.com,28,Accra,2500,1,active,"12 Ring Road, Accra",1,15/03/2022
